@@ -5,7 +5,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrodrigof&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrodrigof&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://www.instagram.com/p/Cb5v6Xauf3B/">
+  
 </div>
  <br>
 <div  align="center"> 
